@@ -1,0 +1,21 @@
+h1{
+    color: purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+button{
+    margin: 5px;
+    padding: 10px;
+    font-size: 30px;
+    cursor: pointer;
+    border-radius: 10%;
+
+}
+h2{
+    background-color: pink;
+}
+img{
+    margin: 10px;
+    width: 400px;
+    height: 300px;
+    display: inline;
+}
